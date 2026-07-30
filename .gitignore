@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/*.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+*.bin
+*.safetensors
+
+# Environment variables
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
