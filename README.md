@@ -387,6 +387,6 @@ A fixed random seed and common validation split were used during model compariso
 
 ## AI Usage
 
-AI tools (ChatGPT) were used as an assistant for code guidance, debugging, experiment planning, interpretation of results, and documentation.
+ChatGPT was used as an assistant for code guidance, debugging, experiment planning, interpretation of model results, and documentation.
 
-All code was executed and verified by the candidate. Model training, validation, error analysis, experiment comparison, Kaggle submissions, and final model selection were performed and reviewed by the candidate.
+All experiments were executed and verified by the candidate. Model training, validation, error analysis, Kaggle submissions, comparison of approaches, and final model selection were performed and reviewed by the candidate.
