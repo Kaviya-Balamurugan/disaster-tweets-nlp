@@ -384,3 +384,9 @@ A fixed random seed and common validation split were used during model compariso
 **DistilBERT V1 Validation F1:** 0.8016  
 **Best Validation F1:** 0.8052  
 **Best Kaggle Public F1:** 0.83757
+
+## AI Usage
+
+AI tools (ChatGPT) were used as an assistant for code guidance, debugging, experiment planning, interpretation of results, and documentation.
+
+All code was executed and verified by the candidate. Model training, validation, error analysis, experiment comparison, Kaggle submissions, and final model selection were performed and reviewed by the candidate.
